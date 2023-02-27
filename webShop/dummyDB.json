@@ -1,0 +1,20 @@
+{
+    "products": [
+        "p1": {
+            "name": "brand-1",
+            "price": 99,
+            "isActive": true,
+        },
+        "p2": {
+            "name": "brand-22",
+            "price": 10,
+            "isActive": false,
+        }
+    ],
+    "users": [
+        "u1": {
+            "email": "teszt.bela@onliveit.hu",
+            "password": "teszTEset7!",
+        }
+    ]
+}
